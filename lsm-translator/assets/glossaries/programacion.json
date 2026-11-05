@@ -1,0 +1,148 @@
+{
+  "nombre": "programacion",
+  "descripcion": "Vocabulario básico de programación y uso de la computadora.",
+  "nota": "Todas las señas empiezan como 'pendiente'. Una persona sorda o un intérprete debe revisar cada clip antes de marcarla como 'validada'. Si un término técnico no tiene seña establecida, se deletrea (utils/fingerspelling.py).",
+  "senas": [
+    {
+      "glosa": "PROGRAMA",
+      "archivo": "programa.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "CODIGO",
+      "archivo": "codigo.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ALGORITMO",
+      "archivo": "algoritmo.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "VARIABLE",
+      "archivo": "variable.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "FUNCION",
+      "archivo": "funcion.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "DATO",
+      "archivo": "dato.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ERROR",
+      "archivo": "error.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "NUMERO",
+      "archivo": "numero.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "TEXTO",
+      "archivo": "texto.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "LISTA",
+      "archivo": "lista.mp4",
+      "categoria": "conceptos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "CICLO",
+      "archivo": "ciclo.mp4",
+      "categoria": "estructuras",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "CONDICION",
+      "archivo": "condicion.mp4",
+      "categoria": "estructuras",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "EJECUTAR",
+      "archivo": "ejecutar.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "GUARDAR",
+      "archivo": "guardar.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "COPIAR",
+      "archivo": "copiar.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "PEGAR",
+      "archivo": "pegar.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "BORRAR",
+      "archivo": "borrar.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ABRIR",
+      "archivo": "abrir.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "COMPUTADORA",
+      "archivo": "computadora.mp4",
+      "categoria": "equipo",
+      "estado": "pendiente",
+      "alias": [
+        "computador"
+      ]
+    },
+    {
+      "glosa": "PANTALLA",
+      "archivo": "pantalla.mp4",
+      "categoria": "equipo",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "TECLADO",
+      "archivo": "teclado.mp4",
+      "categoria": "equipo",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "INTERNET",
+      "archivo": "internet.mp4",
+      "categoria": "equipo",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ARCHIVO",
+      "archivo": "archivo.mp4",
+      "categoria": "equipo",
+      "estado": "pendiente"
+    }
+  ]
+}
