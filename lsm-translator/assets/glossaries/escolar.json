@@ -1,0 +1,208 @@
+{
+  "nombre": "escolar",
+  "descripcion": "Vocabulario de clase: saludos, materias y acciones comunes.",
+  "nota": "Todas las señas empiezan como 'pendiente'. Una persona sorda o un intérprete debe revisar cada clip antes de marcarla como 'validada'. Si un término técnico no tiene seña establecida, se deletrea (utils/fingerspelling.py).",
+  "senas": [
+    {
+      "glosa": "HOLA",
+      "archivo": "hola.mp4",
+      "categoria": "saludos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ADIOS",
+      "archivo": "adios.mp4",
+      "categoria": "saludos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "BUENOS DIAS",
+      "archivo": "buenos_dias.mp4",
+      "categoria": "saludos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "BUENAS TARDES",
+      "archivo": "buenas_tardes.mp4",
+      "categoria": "saludos",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "GRACIAS",
+      "archivo": "gracias.mp4",
+      "categoria": "cortesia",
+      "estado": "pendiente",
+      "alias": [
+        "muchas gracias"
+      ]
+    },
+    {
+      "glosa": "POR FAVOR",
+      "archivo": "por_favor.mp4",
+      "categoria": "cortesia",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "PERDON",
+      "archivo": "perdon.mp4",
+      "categoria": "cortesia",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "SI",
+      "archivo": "si.mp4",
+      "categoria": "respuestas",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "NO",
+      "archivo": "no.mp4",
+      "categoria": "respuestas",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ESCUELA",
+      "archivo": "escuela.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "MAESTRO",
+      "archivo": "maestro.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ALUMNO",
+      "archivo": "alumno.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "SALON",
+      "archivo": "salon.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "TAREA",
+      "archivo": "tarea.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "EXAMEN",
+      "archivo": "examen.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "LIBRO",
+      "archivo": "libro.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "CUADERNO",
+      "archivo": "cuaderno.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "LAPIZ",
+      "archivo": "lapiz.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "RECREO",
+      "archivo": "recreo.mp4",
+      "categoria": "escuela",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "MATEMATICAS",
+      "archivo": "matematicas.mp4",
+      "categoria": "materias",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ESPAÑOL",
+      "archivo": "español.mp4",
+      "categoria": "materias",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "CIENCIAS",
+      "archivo": "ciencias.mp4",
+      "categoria": "materias",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "HISTORIA",
+      "archivo": "historia.mp4",
+      "categoria": "materias",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ENTENDER",
+      "archivo": "entender.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "REPETIR",
+      "archivo": "repetir.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "ESCRIBIR",
+      "archivo": "escribir.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "LEER",
+      "archivo": "leer.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "AYUDA",
+      "archivo": "ayuda.mp4",
+      "categoria": "acciones",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "PREGUNTA",
+      "archivo": "pregunta.mp4",
+      "categoria": "preguntas",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "QUE",
+      "archivo": "que.mp4",
+      "categoria": "preguntas",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "COMO",
+      "archivo": "como.mp4",
+      "categoria": "preguntas",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "CUANDO",
+      "archivo": "cuando.mp4",
+      "categoria": "preguntas",
+      "estado": "pendiente"
+    },
+    {
+      "glosa": "DONDE",
+      "archivo": "donde.mp4",
+      "categoria": "preguntas",
+      "estado": "pendiente"
+    }
+  ]
+}
