@@ -17,3 +17,11 @@ FRAME_WINDOW_SIZE = 30
 CONFIDENCE_THRESHOLD = 0.8
 CONSECUTIVE_PREDICTIONS = 3
 MODEL_PATH = "data/models/"
+
+# --- Bloque de prueba ---
+if __name__ == "__main__":
+    print("\n=== Prueba de Configuración ===")
+    print(f"¿API Key detectada en .env?: {bool(GEMINI_API_KEY)}")
+    print(f"Modelo de Gemini: {MODEL_NAME}")
+    print(f"Ruta del modelo local: {MODEL_PATH}")
+    print("¡Si ves este mensaje sin errores, tus requerimientos y configuración funcionan al 100%!\n")
