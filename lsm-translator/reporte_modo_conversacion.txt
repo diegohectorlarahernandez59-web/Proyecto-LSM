@@ -1,0 +1,544 @@
+--- REPORTE DE PRUEBA: MODO CONVERSACIÓN (LSM-Translator) ---
+Fecha y hora: 2026-11-04 20:08:31
+
+Ciclo 01 -> Frame vacío | Audio vacío / esperando
+Ciclo 02 -> Frame vacío | Audio vacío / esperando
+Ciclo 03 -> Frame vacío | Audio vacío / esperando
+Ciclo 04 -> Frame vacío | Audio vacío / esperando
+Ciclo 05 -> Frame vacío | Audio vacío / esperando
+Ciclo 06 -> Frame vacío | Audio vacío / esperando
+Ciclo 07 -> Frame vacío | Audio vacío / esperando
+Ciclo 08 -> Frame vacío | Audio vacío / esperando
+Ciclo 09 -> Frame vacío | Audio vacío / esperando
+Ciclo 10 -> Frame vacío | Audio vacío / esperando
+Ciclo 11 -> Frame vacío | Audio vacío / esperando
+Ciclo 12 -> Frame vacío | Audio vacío / esperando
+Ciclo 13 -> Frame vacío | Audio vacío / esperando
+Ciclo 14 -> Frame vacío | Audio vacío / esperando
+Ciclo 15 -> Frame vacío | Audio vacío / esperando
+Ciclo 16 -> Frame vacío | Audio vacío / esperando
+Ciclo 17 -> Frame vacío | Audio vacío / esperando
+Ciclo 18 -> Frame vacío | Audio vacío / esperando
+Ciclo 19 -> Frame vacío | Audio vacío / esperando
+Ciclo 20 -> Frame vacío | Audio vacío / esperando
+Ciclo 21 -> Frame vacío | Audio vacío / esperando
+Ciclo 22 -> Frame vacío | Audio vacío / esperando
+Ciclo 23 -> Frame vacío | Audio vacío / esperando
+Ciclo 24 -> Frame vacío | Audio vacío / esperando
+Ciclo 25 -> Frame vacío | Audio vacío / esperando
+Ciclo 26 -> Frame vacío | Audio vacío / esperando
+Ciclo 27 -> Frame vacío | Audio vacío / esperando
+Ciclo 28 -> Frame vacío | Audio vacío / esperando
+Ciclo 29 -> Frame vacío | Audio vacío / esperando
+Ciclo 30 -> Frame vacío | Audio vacío / esperando
+Ciclo 31 -> Frame vacío | Audio vacío / esperando
+Ciclo 32 -> Frame vacío | Audio vacío / esperando
+Ciclo 33 -> Frame vacío | Audio vacío / esperando
+Ciclo 34 -> Frame vacío | Audio vacío / esperando
+Ciclo 35 -> Frame vacío | Audio vacío / esperando
+Ciclo 36 -> Frame vacío | Audio vacío / esperando
+Ciclo 37 -> Frame vacío | Audio vacío / esperando
+Ciclo 38 -> Frame vacío | Audio vacío / esperando
+Ciclo 39 -> Frame vacío | Audio vacío / esperando
+Ciclo 40 -> Frame vacío | Audio vacío / esperando
+Ciclo 41 -> Frame vacío | Audio vacío / esperando
+Ciclo 42 -> Frame vacío | Audio vacío / esperando
+Ciclo 43 -> Frame vacío | Audio vacío / esperando
+Ciclo 44 -> Frame vacío | Audio vacío / esperando
+Ciclo 45 -> Frame vacío | Audio vacío / esperando
+Ciclo 46 -> Frame vacío | Audio vacío / esperando
+Ciclo 47 -> Frame vacío | Audio vacío / esperando
+Ciclo 48 -> Frame vacío | Audio vacío / esperando
+Ciclo 49 -> Frame vacío | Audio vacío / esperando
+Ciclo 50 -> Frame vacío | Audio OK (8000, 1)
+Ciclo 51 -> Frame vacío | Audio vacío / esperando
+Ciclo 52 -> Frame vacío | Audio vacío / esperando
+Ciclo 53 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 54 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 55 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 56 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 57 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 58 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 59 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 60 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 61 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 62 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 63 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 64 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 65 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 66 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 67 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 68 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 69 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 70 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 71 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 72 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 73 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 74 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 75 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 76 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 77 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 78 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 79 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 80 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 81 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 82 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 83 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 84 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 85 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 86 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 87 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 88 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 89 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 90 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 91 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 92 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 93 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 94 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 95 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 96 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 97 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 98 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 99 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 100 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 101 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 102 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 103 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 104 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 105 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 106 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 107 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 108 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 109 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 110 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 111 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 112 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 113 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 114 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 115 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 116 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 117 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 118 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 119 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 120 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 121 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 122 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 123 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 124 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 125 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 126 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 127 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 128 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 129 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 130 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 131 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 132 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 133 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 134 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 135 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 136 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 137 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 138 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 139 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 140 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 141 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 142 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 143 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 144 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 145 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 146 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 147 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 148 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 149 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 150 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 151 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 152 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 153 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 154 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 155 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 156 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 157 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 158 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 159 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 160 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 161 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 162 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 163 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 164 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 165 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 166 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 167 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 168 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 169 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 170 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 171 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 172 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 173 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 174 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 175 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 176 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 177 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 178 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 179 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 180 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 181 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 182 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 183 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 184 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 185 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 186 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 187 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 188 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 189 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 190 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 191 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 192 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 193 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 194 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 195 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 196 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 197 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 198 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 199 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 200 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 201 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 202 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 203 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 204 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 205 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 206 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 207 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 208 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 209 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 210 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 211 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 212 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 213 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 214 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 215 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 216 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 217 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 218 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 219 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 220 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 221 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 222 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 223 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 224 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 225 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 226 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 227 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 228 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 229 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 230 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 231 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 232 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 233 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 234 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 235 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 236 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 237 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 238 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 239 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 240 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 241 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 242 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 243 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 244 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 245 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 246 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 247 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 248 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 249 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 250 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 251 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 252 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 253 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 254 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 255 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 256 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 257 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 258 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 259 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 260 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 261 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 262 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 263 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 264 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 265 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 266 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 267 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 268 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 269 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 270 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 271 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 272 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 273 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 274 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 275 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 276 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 277 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 278 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 279 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 280 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 281 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 282 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 283 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 284 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 285 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 286 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 287 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 288 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 289 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 290 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 291 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 292 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 293 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 294 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 295 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 296 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 297 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 298 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 299 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 300 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 301 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 302 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 303 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 304 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 305 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 306 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 307 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 308 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 309 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 310 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 311 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 312 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 313 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 314 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 315 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 316 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 317 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 318 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 319 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 320 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 321 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 322 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 323 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 324 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 325 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 326 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 327 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 328 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 329 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 330 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 331 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 332 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 333 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 334 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 335 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 336 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 337 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 338 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 339 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 340 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 341 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 342 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 343 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 344 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 345 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 346 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 347 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 348 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 349 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 350 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 351 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 352 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 353 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 354 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 355 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 356 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 357 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 358 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 359 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 360 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 361 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 362 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 363 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 364 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 365 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 366 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 367 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 368 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 369 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 370 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 371 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 372 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 373 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 374 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 375 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 376 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 377 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 378 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 379 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 380 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 381 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 382 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 383 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 384 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 385 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 386 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 387 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 388 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 389 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 390 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 391 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 392 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 393 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 394 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 395 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 396 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 397 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 398 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 399 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 400 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 401 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 402 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 403 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 404 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 405 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 406 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 407 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 408 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 409 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 410 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 411 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 412 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 413 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 414 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 415 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 416 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 417 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 418 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 419 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 420 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 421 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 422 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 423 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 424 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 425 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 426 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 427 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 428 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 429 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 430 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 431 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 432 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 433 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 434 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 435 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 436 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 437 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 438 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 439 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 440 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 441 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 442 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 443 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 444 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 445 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 446 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 447 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 448 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 449 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 450 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 451 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 452 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 453 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 454 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 455 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 456 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 457 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 458 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 459 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 460 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 461 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 462 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 463 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 464 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 465 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 466 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 467 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 468 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 469 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 470 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 471 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 472 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 473 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 474 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 475 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 476 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 477 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 478 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 479 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 480 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 481 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 482 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 483 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 484 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 485 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 486 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 487 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 488 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 489 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 490 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 491 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 492 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 493 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 494 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 495 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 496 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 497 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 498 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 499 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 500 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 501 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 502 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 503 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 504 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 505 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 506 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 507 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 508 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 509 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 510 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 511 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 512 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 513 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 514 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 515 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 516 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 517 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 518 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 519 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 520 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 521 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 522 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 523 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 524 -> Frame OK (480, 640, 3) | Audio OK (8000, 1)
+Ciclo 525 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 526 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 527 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 528 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 529 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 530 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 531 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 532 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 533 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 534 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 535 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 536 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 537 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 538 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+Ciclo 539 -> Frame OK (480, 640, 3) | Audio vacío / esperando
+
+Prueba finalizada. Total de ciclos: 539
