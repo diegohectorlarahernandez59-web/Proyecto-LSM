@@ -16,7 +16,7 @@ AUDIO_SAMPLE_RATE = 16000
 FRAME_WINDOW_SIZE = 30
 CONFIDENCE_THRESHOLD = 0.8
 CONSECUTIVE_PREDICTIONS = 3
-MODEL_PATH = "data/models/"
+MODEL_PATH = "lsm-translator/data/models/"
 
 # --- Bloque de prueba ---
 if __name__ == "__main__":
