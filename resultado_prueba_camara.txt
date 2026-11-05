@@ -1,0 +1,4 @@
+=== PROBANDO CÁMARA DIRECTAMENTE ===
+Cámara abierta. Capturando durante 3 segundos...
+✔️ ¡Éxito! Frame capturado con dimensiones: (480, 640, 3)
+=== PRUEBA FINALIZADA ===
