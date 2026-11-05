@@ -1,7 +1,25 @@
+import joblib
+import os
 import streamlit as st
 import config as config
 
 st.set_page_config(page_title="Traductor LSM Híbrido", layout="wide")
+
+# Función optimizada para cargar el modelo local de señas usando joblib
+@st.cache_resource
+def cargar_modelo_señas():
+    ruta_modelo = "lsm-translator/data/models/sign_classifier.pkl"
+    # Por si se ejecuta directamente desde la carpeta interna
+    if not os.path.exists(ruta_modelo):
+        ruta_modelo = "data/models/sign_classifier.pkl"
+        
+    if os.path.exists(ruta_modelo):
+        try:
+            modelo = joblib.load(ruta_modelo)
+            return modelo
+        except Exception as e:
+            return None
+    return None
 
 # 1. Variables de estado del sistema
 if "duda_activa" not in st.session_state:
@@ -32,18 +50,22 @@ if config.GEMINI_API_KEY:
     st.sidebar.success("API de lenguaje conectada")
 else:
     st.sidebar.warning("Falta configurar GEMINI_API_KEY en .env")
-st.sidebar.info("Modelo Local de Señas a cargar")
+
+# Validación visual del modelo local en la barra lateral
+modelo_señas = cargar_modelo_señas()
+if modelo_señas is not None:
+    st.sidebar.success("Modelo Local de Señas cargado")
+else:
+    st.sidebar.error("Error al cargar el modelo .pkl")
 
 # 3. Vista Profesor
 if rol == "Profesor":
     st.title("Panel del Profesor")
 
-
     def atender_duda():
         st.session_state.duda_activa = False
         st.session_state.mostrar_subtitulos = True
         st.toast("Duda atendida y canal de subtítulos activado.")
-
 
     if st.session_state.duda_activa:
         st.error("¡ATENCIÓN! Una persona sorda ha levantado la mano / enviado una duda.")
@@ -90,7 +112,6 @@ elif rol == "Estudiante":
         st.subheader("Conversación Síncrona en Tiempo Real")
         col_oyente, col_sordo = st.columns(2)
 
-
         with col_oyente:
             st.markdown("### Persona Oyente")
 
@@ -102,7 +123,6 @@ elif rol == "Estudiante":
             )
 
             if canal_oyente == "Audio (Voz en vivo)":
-                # Interruptor síncrono para el micrófono
                 st.session_state.mic_oyente_activo = st.toggle(
                     "🔴 / 🟢 Activar Micrófono (Captura Continua)",
                     value=st.session_state.mic_oyente_activo
@@ -110,7 +130,6 @@ elif rol == "Estudiante":
 
                 if st.session_state.mic_oyente_activo:
                     st.success("Micrófono ACTIVADO - Procesando voz a texto de forma continua...")
-                    # Simulación de actualización síncrona
                     st.session_state.subtitulos_oyente = "Transcripción síncrona: 'Hola, ¿tienen alguna duda con este tema?'"
                 else:
                     st.warning("🔇 Micrófono DESACTIVADO")
@@ -130,13 +149,9 @@ elif rol == "Estudiante":
                 key="sub_lsm_recibidos_oyente"
             )
 
-        # -------------------------------------------------------------
-        # PERSONA SORDA
-        # -------------------------------------------------------------
         with col_sordo:
-            st.markdown("###Estudiante")
+            st.markdown("### Estudiante")
 
-            # Interruptor síncrono para la cámara
             st.session_state.camara_sordo_activa = st.toggle(
                 "📷 / 🟢 Activar Cámara (Traducción LSM en Vivo)",
                 value=st.session_state.camara_sordo_activa
@@ -145,11 +160,9 @@ elif rol == "Estudiante":
             if st.session_state.camara_sordo_activa:
                 st.success("🟢 Cámara ACTIVADA - Modelo de señas clasificando en tiempo real...")
 
-                # Visualización del stream activo o canvas
                 with st.container(border=True):
                     st.caption("Transmisión de Video en Vivo (Feed del modelo)")
                     st.info("Simulación: Detectando puntos clave (Hand Landmarks / MediaPipe) y clasificando señas...")
-                    # Simulación de resultado síncrono enviado a los subtítulos del oyente
                     st.session_state.subtitulos_lsm = "Traducción en vivo: 'Todo claro profesor, podemos continuar.'"
             else:
                 st.warning("Cámara DESACTIVADA")
